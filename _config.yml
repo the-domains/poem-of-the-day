@@ -2,6 +2,7 @@ name: Poem of the day
 favicon: null
 layout_spectrum: 0.27551372605375946
 typography_spectrum: 0.717641256051138
+title: Poem of the day
 cta:
   domain: null
   bucket: null
