@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T09:23:20.459Z'
-dateModified: '2016-04-03T09:22:53.381Z'
+datePublished: '2016-04-04T13:26:18.461Z'
+dateModified: '2016-04-04T12:01:11.150Z'
 title: Stopping by Woods on a Snowy Evening
 author: []
+sourcePath: _posts/2016-04-03-stopping-by-woods-on-a-snowy-evening.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-stopping-by-woods-on-a-snowy-evening.md
-published: true
 url: stopping-by-woods-on-a-snowy-evening/index.html
 _type: Article
 
