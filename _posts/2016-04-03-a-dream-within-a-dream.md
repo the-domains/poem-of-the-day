@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T09:11:23.531Z'
-dateModified: '2016-04-03T09:11:08.244Z'
+datePublished: '2016-04-04T11:58:43.058Z'
+dateModified: '2016-04-03T09:14:39.446Z'
 title: A Dream Within A Dream
 author: []
+sourcePath: _posts/2016-04-03-a-dream-within-a-dream.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-a-dream-within-a-dream.md
-published: true
 url: a-dream-within-a-dream/index.html
 _type: Article
 
