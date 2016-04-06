@@ -4,8 +4,15 @@
         <description><![CDATA[Poem of the day]]></description>
         <link>https://thegrid.ai/poem-of-the-day/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 07:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 07:26:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poem-of-the-day/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I Wandered Lonely As A Cloud]]></title>
+            <description><![CDATA[<article><h1>I Wandered Lonely As A Cloud</h1><h2>by William Wordsworth</h2></article>]]></description>
+            <link>https://thegrid.ai/poem-of-the-day/i-wandered-lonely-as-a-cloud/index.html</link>
+            <guid isPermaLink="false">9755255e-f9cc-4225-8395-0e4f43ab0ed2</guid>
+            <pubDate>Wed, 06 Apr 2016 07:25:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do not stand at my grave and weep]]></title>
             <description><![CDATA[<article><h1>Do not stand at my grave and weep</h1><h2>by Mary Elizabeth Frye</h2></article>]]></description>
