@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "by\_"
-datePublished: '2016-04-07T07:45:12.682Z'
-dateModified: '2016-04-06T07:38:57.166Z'
+description: "by\_Maya Angelou"
+datePublished: '2016-04-07T07:46:40.450Z'
+dateModified: '2016-04-07T07:45:21.787Z'
 title: Phenomenal Woman
 author: []
+sourcePath: _posts/2016-04-07-phenomenal-woman.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-phenomenal-woman.md
-published: true
 url: phenomenal-woman/index.html
 _type: Article
 
