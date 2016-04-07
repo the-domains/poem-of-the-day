@@ -4,8 +4,15 @@
         <description><![CDATA[Poem of the day]]></description>
         <link>https://thegrid.ai/poem-of-the-day/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 07:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 07:45:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poem-of-the-day/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Phenomenal Woman]]></title>
+            <description><![CDATA[<article><h1>Phenomenal Woman</h1><p>by Maya Angelou</p></article>]]></description>
+            <link>https://thegrid.ai/poem-of-the-day/phenomenal-woman/index.html</link>
+            <guid isPermaLink="false">ab958937-b863-472d-b816-cbedf973ec02</guid>
+            <pubDate>Thu, 07 Apr 2016 07:45:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I Wandered Lonely As A Cloud]]></title>
             <description><![CDATA[<article><h1>I Wandered Lonely As A Cloud</h1><h2>by William Wordsworth</h2></article>]]></description>
