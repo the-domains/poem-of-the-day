@@ -4,11 +4,11 @@
         <description><![CDATA[Poem of the day]]></description>
         <link>https://thegrid.ai/poem-of-the-day/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 13:59:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 14:01:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poem-of-the-day/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Dream Within A Dream]]></title>
-            <description><![CDATA[<h1>A Dream Within A Dream</h1>]]></description>
+            <description><![CDATA[<article><h1>A Dream Within A Dream</h1><h2>By Edgar Allan Poe</h2></article>]]></description>
             <link>https://thegrid.ai/poem-of-the-day/a-dream-within-a-dream/index.html</link>
             <guid isPermaLink="false">1d34ceb8-2608-4a63-a962-93def4e30c2b</guid>
             <pubDate>Sat, 09 Apr 2016 13:58:51 GMT</pubDate>
@@ -54,13 +54,6 @@
             <link>https://thegrid.ai/poem-of-the-day/and-the-moon-and-the-stars-and-the-world/index.html</link>
             <guid isPermaLink="false">a7147d29-956f-4a99-a36b-e71dce6fbbb5</guid>
             <pubDate>Mon, 04 Apr 2016 13:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Dream Within A Dream]]></title>
-            <description><![CDATA[<article><h1>A Dream Within A Dream</h1><h2>by Edgar Allan Poe</h2></article>]]></description>
-            <link>https://thegrid.ai/poem-of-the-day/a-dream-within-a-dream/index.html</link>
-            <guid isPermaLink="false">3156cb9b-01ed-4701-8251-b119eebe3c09</guid>
-            <pubDate>Mon, 04 Apr 2016 11:58:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life is fine]]></title>
