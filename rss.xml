@@ -4,8 +4,15 @@
         <description><![CDATA[Poem of the day]]></description>
         <link>https://thegrid.ai/poem-of-the-day/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 07:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 13:58:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poem-of-the-day/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Dream Within A Dream]]></title>
+            <description><![CDATA[<article><h1>A Dream Within A Dream</h1><h2>Edgar Allan Poe</h2></article>]]></description>
+            <link>https://thegrid.ai/poem-of-the-day/a-dream-within-a-dream/index.html</link>
+            <guid isPermaLink="false">1d34ceb8-2608-4a63-a962-93def4e30c2b</guid>
+            <pubDate>Sat, 09 Apr 2016 13:58:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Road Not Taken]]></title>
             <description><![CDATA[<article><h1>The Road Not Taken</h1><h2>by Robert Lee Frost</h2></article>]]></description>
@@ -35,20 +42,6 @@
             <pubDate>Tue, 05 Apr 2016 07:31:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[And The Moon And The Stars And The World]]></title>
-            <description><![CDATA[<article><h1>And The Moon And The Stars And The World</h1><h2>by Charles Bukowski</h2></article>]]></description>
-            <link>https://thegrid.ai/poem-of-the-day/and-the-moon-and-the-stars-and-the-world/index.html</link>
-            <guid isPermaLink="false">a7147d29-956f-4a99-a36b-e71dce6fbbb5</guid>
-            <pubDate>Mon, 04 Apr 2016 13:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life is fine]]></title>
-            <description><![CDATA[<article><h1>Life is fine</h1><h2>by Langston Hughes</h2></article>]]></description>
-            <link>https://thegrid.ai/poem-of-the-day/life-is-fine/index.html</link>
-            <guid isPermaLink="false">e443f9ba-cc03-4b59-b6b7-a68b33d1aeb7</guid>
-            <pubDate>Sun, 03 Apr 2016 09:33:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stopping by Woods on a Snowy Evening]]></title>
             <description><![CDATA[<article><h1>Stopping by Woods on a Snowy Evening</h1><h2>by Robert Frost</h2></article>]]></description>
             <link>https://thegrid.ai/poem-of-the-day/stopping-by-woods-on-a-snowy-evening/index.html</link>
@@ -56,11 +49,25 @@
             <pubDate>Mon, 04 Apr 2016 13:26:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[And The Moon And The Stars And The World]]></title>
+            <description><![CDATA[<article><h1>And The Moon And The Stars And The World</h1><h2>by Charles Bukowski</h2></article>]]></description>
+            <link>https://thegrid.ai/poem-of-the-day/and-the-moon-and-the-stars-and-the-world/index.html</link>
+            <guid isPermaLink="false">a7147d29-956f-4a99-a36b-e71dce6fbbb5</guid>
+            <pubDate>Mon, 04 Apr 2016 13:25:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Dream Within A Dream]]></title>
             <description><![CDATA[<article><h1>A Dream Within A Dream</h1><h2>by Edgar Allan Poe</h2></article>]]></description>
             <link>https://thegrid.ai/poem-of-the-day/a-dream-within-a-dream/index.html</link>
             <guid isPermaLink="false">3156cb9b-01ed-4701-8251-b119eebe3c09</guid>
             <pubDate>Mon, 04 Apr 2016 11:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life is fine]]></title>
+            <description><![CDATA[<article><h1>Life is fine</h1><h2>by Langston Hughes</h2></article>]]></description>
+            <link>https://thegrid.ai/poem-of-the-day/life-is-fine/index.html</link>
+            <guid isPermaLink="false">e443f9ba-cc03-4b59-b6b7-a68b33d1aeb7</guid>
+            <pubDate>Sun, 03 Apr 2016 09:33:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
