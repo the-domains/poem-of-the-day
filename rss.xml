@@ -4,8 +4,15 @@
         <description><![CDATA[Poem of the day]]></description>
         <link>https://thegrid.ai/poem-of-the-day/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 11:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 18:27:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poem-of-the-day/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Remember]]></title>
+            <description><![CDATA[<article><h1>Remember</h1><h2>by Christina Georgina Rossetti</h2><p>undefined</p></article>]]></description>
+            <link>https://thegrid.ai/poem-of-the-day/remember/index.html</link>
+            <guid isPermaLink="false">a3339201-ff63-41f8-8d1f-8b352fe3137d</guid>
+            <pubDate>Tue, 12 Apr 2016 18:27:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[As I Grew Older]]></title>
             <description><![CDATA[<article><h1>As I Grew Older</h1><p>It was a long time ago.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/poem-of-the-day/and-the-moon-and-the-stars-and-the-world/index.html</link>
             <guid isPermaLink="false">a7147d29-956f-4a99-a36b-e71dce6fbbb5</guid>
             <pubDate>Mon, 04 Apr 2016 13:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life is fine]]></title>
-            <description><![CDATA[<article><h1>Life is fine</h1><h2>by Langston Hughes</h2></article>]]></description>
-            <link>https://thegrid.ai/poem-of-the-day/life-is-fine/index.html</link>
-            <guid isPermaLink="false">e443f9ba-cc03-4b59-b6b7-a68b33d1aeb7</guid>
-            <pubDate>Sun, 03 Apr 2016 09:33:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
