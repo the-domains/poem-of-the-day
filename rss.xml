@@ -4,8 +4,15 @@
         <description><![CDATA[Poem of the day]]></description>
         <link>https://thegrid.ai/poem-of-the-day/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 19:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 06:27:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poem-of-the-day/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Abou Ben Adhem]]></title>
+            <description><![CDATA[<article><h1>Abou Ben Adhem</h1><h2>by Leigh Hunt</h2><p>Abou Ben Adhem (may his tribe increase!)Awoke one night from a deep dream of peace,And saw, within the moonlight in his room,Making it rich, and like a lily in bloom,An angel writing in a book of gold:—Exceeding peace had made Ben Adhem bold,And to the Presence in the room he sai"What writest thou?"—The vision raised its head,And with a look made of all sweet accord,Answered "The names of those who love the Lord.""And is mine one?" said Abou. "Nay, not so,"Replied the angel. Abou spoke more low,But cheerly still, and said "I pray thee, then,Write me as one that loves his fellow men."</p></article>]]></description>
+            <link>https://thegrid.ai/poem-of-the-day/abou-ben-adhem/index.html</link>
+            <guid isPermaLink="false">797b1635-5b7f-4f49-8b30-a90ffff062db</guid>
+            <pubDate>Tue, 19 Apr 2016 06:26:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One Art]]></title>
             <description><![CDATA[<article><h1>One Art</h1><h2>by Elizabeth Bishop</h2></article>]]></description>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Remember]]></title>
-            <description><![CDATA[<article><h1>Remember</h1><h2>by Christina Georgina Rossetti</h2><p>undefined</p></article>]]></description>
+            <description><![CDATA[<article><h1>Remember</h1><h2>by Christina Georgina Rossetti</h2></article>]]></description>
             <link>https://thegrid.ai/poem-of-the-day/remember/index.html</link>
             <guid isPermaLink="false">a3339201-ff63-41f8-8d1f-8b352fe3137d</guid>
             <pubDate>Tue, 12 Apr 2016 18:27:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/poem-of-the-day/phenomenal-woman/index.html</link>
             <guid isPermaLink="false">ab958937-b863-472d-b816-cbedf973ec02</guid>
             <pubDate>Thu, 07 Apr 2016 07:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Wandered Lonely As A Cloud]]></title>
-            <description><![CDATA[<article><h1>I Wandered Lonely As A Cloud</h1><h2>by William Wordsworth</h2></article>]]></description>
-            <link>https://thegrid.ai/poem-of-the-day/i-wandered-lonely-as-a-cloud/index.html</link>
-            <guid isPermaLink="false">9755255e-f9cc-4225-8395-0e4f43ab0ed2</guid>
-            <pubDate>Wed, 06 Apr 2016 07:25:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
