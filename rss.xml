@@ -4,8 +4,15 @@
         <description><![CDATA[Poem of the day]]></description>
         <link>https://thegrid.ai/poem-of-the-day/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 06:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 15:02:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poem-of-the-day/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life]]></title>
+            <description><![CDATA[<article><h1>Life</h1><p>Rapidly, merrily,Life's sunny hours flit by,Gratefully, cheerily,Enjoy them as they fly !</p></article>]]></description>
+            <link>https://thegrid.ai/poem-of-the-day/life/index.html</link>
+            <guid isPermaLink="false">78407661-be40-4fa4-9f84-e7c0d82789eb</guid>
+            <pubDate>Wed, 20 Apr 2016 15:01:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Abou Ben Adhem]]></title>
             <description><![CDATA[<article><h1>Abou Ben Adhem</h1><h2>by Leigh Hunt</h2><p>Abou Ben Adhem (may his tribe increase!)Awoke one night from a deep dream of peace,And saw, within the moonlight in his room,Making it rich, and like a lily in bloom,An angel writing in a book of gold:—Exceeding peace had made Ben Adhem bold,And to the Presence in the room he sai"What writest thou?"—The vision raised its head,And with a look made of all sweet accord,Answered "The names of those who love the Lord.""And is mine one?" said Abou. "Nay, not so,"Replied the angel. Abou spoke more low,But cheerly still, and said "I pray thee, then,Write me as one that loves his fellow men."</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/poem-of-the-day/the-road-not-taken/index.html</link>
             <guid isPermaLink="false">80519056-fb45-429c-81fb-251c148df873</guid>
             <pubDate>Fri, 08 Apr 2016 07:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Phenomenal Woman]]></title>
-            <description><![CDATA[<article><h1>Phenomenal Woman</h1><p>by Maya Angelou</p></article>]]></description>
-            <link>https://thegrid.ai/poem-of-the-day/phenomenal-woman/index.html</link>
-            <guid isPermaLink="false">ab958937-b863-472d-b816-cbedf973ec02</guid>
-            <pubDate>Thu, 07 Apr 2016 07:46:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
