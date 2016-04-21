@@ -4,8 +4,15 @@
         <description><![CDATA[Poem of the day]]></description>
         <link>https://thegrid.ai/poem-of-the-day/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 15:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 13:41:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poem-of-the-day/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silver]]></title>
+            <description><![CDATA[<article><h1>Silver</h1><h2>by Walter de la Mare</h2><p>Slowly, silently, now the moonWalks the night in her silver shoon;This way, and that, she peers, and seesSilver fruit upon silver trees;One by one the casements catchHer beams beneath the silvery thatch;Couched in his kennel, like a log,With paws of silver sleeps the dog;From their shadowy cote the white breasts peepOf doves in a silver-feathered sleep;A harvest mouse goes scampering by,With silver claws, and silver eye;And moveless fish in the water gleam,By silver reeds in a silver stream.</p></article>]]></description>
+            <link>https://thegrid.ai/poem-of-the-day/silver/index.html</link>
+            <guid isPermaLink="false">1ccd596a-7d64-41a0-90ef-b4d765e8f612</guid>
+            <pubDate>Thu, 21 Apr 2016 13:40:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Life]]></title>
             <description><![CDATA[<article><h1>Life</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/poem-of-the-day/a-dream-within-a-dream/index.html</link>
             <guid isPermaLink="false">1d34ceb8-2608-4a63-a962-93def4e30c2b</guid>
             <pubDate>Sat, 09 Apr 2016 13:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Road Not Taken]]></title>
-            <description><![CDATA[<article><h1>The Road Not Taken</h1><h2>by Robert Lee Frost</h2></article>]]></description>
-            <link>https://thegrid.ai/poem-of-the-day/the-road-not-taken/index.html</link>
-            <guid isPermaLink="false">80519056-fb45-429c-81fb-251c148df873</guid>
-            <pubDate>Fri, 08 Apr 2016 07:53:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
